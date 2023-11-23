@@ -43,6 +43,7 @@ img
 header{
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(img/images/banner-bg.jpg) center/cover no-repeat fixed;
+    
 }
 
 
@@ -50,7 +51,6 @@ header{
 {
     background: rgba(0, 0, 0, 0.6);
     padding: 1.2rem;
-
 }
 
 .navigation 
@@ -245,7 +245,7 @@ header{
 .blog
 {
     background: #fff;
-    padding: 4.5rem;
+    padding: .5rem;
 }
 .blog-content 
 {
@@ -316,7 +316,7 @@ header{
 
 .about 
 {
-    padding: 4.5rem 0;
+    padding: 4.5rem 1.5rem;
 }
 .about-content
 {
